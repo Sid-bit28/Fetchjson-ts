@@ -1,0 +1,2 @@
+# Fetchjson-ts
+Typescript test
