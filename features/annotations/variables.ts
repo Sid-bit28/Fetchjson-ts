@@ -13,9 +13,9 @@ let myNumbers: number[] = [1, 2, 3];
 let truths: boolean[] = [true, false];
 
 //classes
-class Car {}
+class Cars {}
 
-let car: Car = new Car();
+let cark: Cars = new Cars();
 
 //Object literal
 let point: { x: number; y: number } = {

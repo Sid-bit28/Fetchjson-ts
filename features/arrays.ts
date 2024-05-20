@@ -18,4 +18,3 @@ carMakers.map((car: string): string => {
 //flexible types
 const importantDates: (Date | string)[] = [new Date()];
 
-
