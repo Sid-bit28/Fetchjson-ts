@@ -19,7 +19,7 @@ const center = {
 
 function App() {
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: 'AIzaSyBvQ1z4Mg7Cd9a_Qz2mH2_7rraI_zYiqh0',
+    googleMapsApiKey: '',
   });
 
   if (loadError) {
